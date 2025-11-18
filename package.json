@@ -1,0 +1,10 @@
+{
+  "name": "chess-sounds",
+  "version": "1.0.0",
+  "description": "CC0-licensed classic chess UI sounds (move, capture) for web apps.",
+  "main": "sounds",
+  "files": [
+    "sounds"
+  ],
+  "license": "CC0-1.0"
+}
